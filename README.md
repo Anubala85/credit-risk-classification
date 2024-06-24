@@ -21,4 +21,19 @@ Historical lending data was imported from `lending_data.csv`, which contained fi
 
 **Results:**
 
+Below is the summary of results for Machine-Learning Model 1:
+
+- Healthy Loans:
+    - Precision: 100%
+    - Recall: 100%
+    - Accuracy: 100%
+- High-Risk Loans:
+    - Precision: 87%
+    - Recall: 89%
+    - Accuracy: 88%
+
+![image](https://github.com/Anubala85/credit-risk-classification/assets/158111116/97fcf1ad-8cea-4c47-90e8-9f4bbca0a5b9)
+
+
+
 
