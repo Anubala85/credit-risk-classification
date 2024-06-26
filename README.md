@@ -23,17 +23,21 @@ Historical lending data was imported from `lending_data.csv`, which contained fi
 
 Below is the summary of results for Machine-Learning Model 1:
 
+- The balanced accuracy score of this model: 94.4%
 - Healthy Loans:
     - Precision: 100%
     - Recall: 100%
-    - Accuracy: 100%
+    - F-1 score: 100%
 - High-Risk Loans:
     - Precision: 87%
     - Recall: 89%
-    - Accuracy: 88%
+    - F-1 Score: 88%
 
 <img src="https://github.com/Anubala85/credit-risk-classification/assets/158111116/97fcf1ad-8cea-4c47-90e8-9f4bbca0a5b9" width="500">
 
-
+**Results:**
+The performance of the model depends on the problem we are trying to solve. 
+If the problem is to predict if a loan is healthy, the logistic regression model performs well and it is recommended for use.
+If the problem is to predict if a loan is high-ris, the logistic regression model doesn't perform well and it is NOT recommended for use.
 
 
