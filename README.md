@@ -38,7 +38,7 @@ Below is the summary of results for Machine-Learning Model 1:
 **Results:**
 
 The performance of the model depends on the problem we are trying to solve. 
-If the problem is to predict if a loan is `healthy` (class 0), the logistic regression model performs well and it is `recommended` for use.
-If the problem is to predict if a loan is `high-risk` (class 1), the logistic regression model doesn't perform well and it is `NOT recommended` for use.
+- If the problem is to predict if a loan is `healthy` (class 0), the logistic regression model performs well and it is `recommended` for use.
+- If the problem is to predict if a loan is `high-risk` (class 1), the logistic regression model doesn't perform well and it is `NOT recommended` for use.
 
 
